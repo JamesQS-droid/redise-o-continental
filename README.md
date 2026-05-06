@@ -1,6 +1,7 @@
 # redise-o-continental
 RESIÑO CON BOOTSTRAP VALOR AGREGADO 
 
-## Recursos Utilizados
-- **Imagen de fondo (Hero Banner):** [Enlace a la imagen en Unsplash](https://unsplash.com/es/fotos/foto-de-grupo-de-personas-mirando-hacia-atras-523240795612)
-- **Framework Estilos:** Bootstrap 5.3.3 vía CDN
+## Recursos y Créditos Visuales
+* **Imagen del Banner Principal (Hero):** [Enlace de la imagen en la Web (Unsplash)](https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=1920&auto=format&fit=crop)
+* **Framework CSS:** Bootstrap 5.3.3 (Vía CDN)
+* **Iconos:** Bootstrap Icons (Vía CDN)
